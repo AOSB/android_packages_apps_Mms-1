@@ -99,7 +99,6 @@
                         android:visibility="gone" />
 
                     <TextView android:id="@+id/date_view"
-                        android:background="@color/date_view_background"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:paddingLeft="@dimen/message_item_text_padding_left_right"
